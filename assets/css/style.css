@@ -357,6 +357,10 @@ body {
     background: rgba(0, 0, 0, 0);
     padding: 30px;
   }
+
+  section .cert{
+    justify-content: center;
+  }
   
   @media (max-width: 768px) {
     section {
